@@ -77,8 +77,10 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/bee8f44b-5f6b-4d52-9a2c-7f501699fc42)
 
+## 1.ELBOW METHOD
+![image](https://github.com/user-attachments/assets/bee8f44b-5f6b-4d52-9a2c-7f501699fc42)
+## 2.CUSTOMER SEGMENT
 ![image](https://github.com/user-attachments/assets/ff9f0066-ba60-4fae-a683-6403d787189c)
 
 ## Result:
